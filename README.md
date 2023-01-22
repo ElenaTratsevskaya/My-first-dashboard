@@ -1,1 +1,1 @@
-# Tableau-dashboard-Evaluating-the-performance-of-a-chain-of-stores
+Учебный проект в рамках курса "Оот скучных графиков к интерактивным дашбордам
